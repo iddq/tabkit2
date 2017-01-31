@@ -1,4 +1,6 @@
 # Tab Kit 2nd Edition
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tabkit/tabkit2.svg)](https://greenkeeper.io/)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tabkit/tabkit2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The original [Tab Kit(TK)](https://addons.mozilla.org/en-us/firefox/addon/tab-kit/) is an extension of Firefox that many people are using.  
